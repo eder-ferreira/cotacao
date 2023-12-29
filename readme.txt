@@ -1,3 +1,8 @@
+ESTUDO CONFORME VIDEO: 
+Como Criar uma Tela em Python Para Seus Códigos - [Interface Gráfica Intuitiva com Tkinter]
+https://www.youtube.com/watch?v=AiBC01p58oI
+
+
 Criação de uma venv no VS Code
 
 Passo 1:Abrindo um projeto no VS Code:
